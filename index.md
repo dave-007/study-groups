@@ -28,11 +28,11 @@ Start writing!
 
 > Making this study into a habit, into a priority will increase chance for success on this and future studies.
 
-### - **ACCOUNTABILITY** Buddy
+## - **ACCOUNTABILITY** Buddy
 
 > This group is one source of accountability. Find more people you trust to share your goals with who can remind and encourage you when you're challenged.
 
-### - Continually **EDUCATE** Yourself
+## - Continually **EDUCATE** Yourself
 
 > Learn the topic, learn how to learn, how to continually improve by sharing what you know!.
 ![Why teach what you learn](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1018%2F1*P2Ep8EM-YKWKHLLmt1lfzQ.png)
